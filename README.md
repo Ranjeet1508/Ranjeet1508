@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranjeet</h1>
 <h3 align="center">Aspiring full stack web developer</h3>
-<img align="right" width="400" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/200w.webp?cid=ecf05e47cggpxj1668i362tjtumb5d3y9gfw71f6n9rqhtkq&ep=v1_gifs_search&rid=200w.webp&ct=g" alt"coding" />
+<img align="right" width="300" height="300" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/200w.webp?cid=ecf05e47cggpxj1668i362tjtumb5d3y9gfw71f6n9rqhtkq&ep=v1_gifs_search&rid=200w.webp&ct=g" alt"coding" />
 
 
 - 🌱 I’m currently learning **React js**
