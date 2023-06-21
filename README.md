@@ -3,7 +3,6 @@
 
 <img align="right" width="300" height="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47b28k5gvj8vk2hrb18uvy231y9n5irwp9h60h1g1l&ep=v1_gifs_related&rid=200.webp&ct=g" alt"coding" />
 
-
 - 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://Ranjeet1508.github.io](https://Ranjeet1508.github.io)
