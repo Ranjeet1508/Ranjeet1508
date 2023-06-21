@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ranjeet</h1>
 <h3 align="center">Aspiring full stack web developer</h3>
-<img align="right" width="300" height="300" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/200w.webp?cid=ecf05e47cggpxj1668i362tjtumb5d3y9gfw71f6n9rqhtkq&ep=v1_gifs_search&rid=200w.webp&ct=g" alt"coding" />
+
+<img align="right" width="300" height="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47b28k5gvj8vk2hrb18uvy231y9n5irwp9h60h1g1l&ep=v1_gifs_related&rid=200.webp&ct=g" alt"coding" />
 
 
 - 🌱 I’m currently learning **React js**
+
+- 👨‍💻 All of my projects are available at [https://Ranjeet1508.github.io](https://Ranjeet1508.github.io)
 
 - 📫 How to reach me **danavrj1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/ranjeet-kumar-the-reactor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ranjeet-kumar-the-reactor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/ranjeet-gautam-b383b6204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ranjeet-gautam-b383b6204" height="30" width="40" /></a>
+<a href="https://codesandbox.com/danavrj1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="danavrj1998" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/7941daanav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="7941daanav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
