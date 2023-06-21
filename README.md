@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ranjeet</h1>
 <h3 align="center">Aspiring full stack web developer</h3>
 
-<img align="right" width="300" height="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47b28k5gvj8vk2hrb18uvy231y9n5irwp9h60h1g1l&ep=v1_gifs_related&rid=200.webp&ct=g" alt"coding" />
+<img align="right" width="350" height="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47b28k5gvj8vk2hrb18uvy231y9n5irwp9h60h1g1l&ep=v1_gifs_related&rid=200.webp&ct=g"
+alt="coding" />
 
 - 🌱 I’m currently learning **React js**
 
