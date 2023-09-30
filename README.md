@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1h7OK6EkpOyyKK1pLM4ovjhVelPhL2upB/view?usp=sharing]
 
-- ⚡ Fun fact **I love to draw**
+- ⚡ Fun fact **I love to Ride and Travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
