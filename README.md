@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **danavrj1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fX15c-0zKqy45NzC_0Afmjiw7c8s9Cax/view?usp=sharing](https://drive.google.com/file/d/1fX15c-0zKqy45NzC_0Afmjiw7c8s9Cax/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h7OK6EkpOyyKK1pLM4ovjhVelPhL2upB/view?usp=sharing]
 
 - ⚡ Fun fact **I love to draw**
 
